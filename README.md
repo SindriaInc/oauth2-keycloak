@@ -9,7 +9,7 @@ A wrapper for the Keycloak OAuth 2.0 Client Provider, support Authentication and
 To install, use composer:
 
 ```php
-composer require yangze/oauth2-keycloak
+composer require sindria/oauth2-keycloak
 ```
 
 

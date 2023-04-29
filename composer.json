@@ -30,12 +30,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Stevenmaguire\\OAuth2\\Client\\": "src/"
+            "Sindria\\OAuth2\\Client\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Stevenmaguire\\OAuth2\\Client\\Test\\": "test/src/"
+            "Sindria\\OAuth2\\Client\\Test\\": "test/src/"
         }
     }
 }
