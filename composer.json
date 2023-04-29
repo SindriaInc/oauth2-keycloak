@@ -1,13 +1,14 @@
 {
     "name": "sindria/oauth2-keycloak",
     "description": "A wrapper for the Keycloak OAuth 2.0 Client Provider",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Steven Maguire",
-            "email": "stevenmaguire@gmail.com",
-            "homepage": "https://github.com/stevenmaguire"
-        }
+    {
+      "name": "Luca Pitzoi",
+      "email": "luca.pitzoi@sindria.org",
+      "role": "DevOps Engineer"
+    }
     ],
     "keywords": [
         "oauth",
@@ -35,11 +36,6 @@
     "autoload-dev": {
         "psr-4": {
             "Stevenmaguire\\OAuth2\\Client\\Test\\": "test/src/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
         }
     }
 }
