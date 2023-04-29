@@ -1,6 +1,6 @@
 <?php
 
-namespace Stevenmaguire\OAuth2\Client\Adapter;
+namespace Sindria\OAuth2\Client\Adapter;
 
 use Illuminate\Support\Facades\Cookie;
 use Cache;

@@ -1,14 +1,14 @@
 <?php
 
-namespace Stevenmaguire\OAuth2\Client;
+namespace Sindria\OAuth2\Client;
 
 use Firebase\JWT\JWT;
 use League\OAuth2\Client\Token\AccessToken;
-use Stevenmaguire\OAuth2\Client\Adapter\AdapterAbstract;
-use Stevenmaguire\OAuth2\Client\Adapter\DefaultAdapter;
-use Stevenmaguire\OAuth2\Client\Grant\Ticket;
-use Stevenmaguire\OAuth2\Client\Provider\Keycloak;
-use Stevenmaguire\OAuth2\Client\Provider\KeycloakResourceOwner;
+use Sindria\OAuth2\Client\Adapter\AdapterAbstract;
+use Sindria\OAuth2\Client\Adapter\DefaultAdapter;
+use Sindria\OAuth2\Client\Grant\Ticket;
+use Sindria\OAuth2\Client\Provider\Keycloak;
+use Sindria\OAuth2\Client\Provider\KeycloakResourceOwner;
 
 /**
  *  Passport

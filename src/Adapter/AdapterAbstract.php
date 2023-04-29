@@ -1,6 +1,6 @@
 <?php
 
-namespace Stevenmaguire\OAuth2\Client\Adapter;
+namespace Sindria\OAuth2\Client\Adapter;
 
 /**
  * Short description for AdapterAbstract.php

@@ -1,6 +1,6 @@
 <?php
 
-namespace Stevenmaguire\OAuth2\Client\Provider;
+namespace Sindria\OAuth2\Client\Provider;
 
 use Firebase\JWT\JWT;
 use League\OAuth2\Client\Provider\ResourceOwnerInterface;
