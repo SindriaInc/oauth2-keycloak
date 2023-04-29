@@ -1,5 +1,5 @@
 {
-    "name": "yangze/oauth2-keycloak",
+    "name": "sindria/oauth2-keycloak",
     "description": "A wrapper for the Keycloak OAuth 2.0 Client Provider",
     "license": "MIT",
     "authors": [
